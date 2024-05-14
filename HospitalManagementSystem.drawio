@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T14:55:42.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WvYw6-gY9WyiW29cm6vw" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T15:03:50.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2LjdWytjTEr1cDqAij4O" version="24.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1609" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -245,24 +245,17 @@
         <mxCell id="hKyiq-k3pNiRIHzsLkep-32" value="+ scheduleAppointment(): void&#xa;+ makeAppointment(): void&#xa;+ cancelAppointment(): void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hKyiq-k3pNiRIHzsLkep-31">
           <mxGeometry y="40" width="236.25" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="hKyiq-k3pNiRIHzsLkep-33" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="hKyiq-k3pNiRIHzsLkep-37" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="600" y="380" as="sourcePoint" />
             <mxPoint x="760" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hKyiq-k3pNiRIHzsLkep-34" value="1...* nurseList" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="hKyiq-k3pNiRIHzsLkep-33">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint y="20" as="offset" />
-          </mxGeometry>
+        <mxCell id="hKyiq-k3pNiRIHzsLkep-38" value="1...* nurseList" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="410.0000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="hKyiq-k3pNiRIHzsLkep-35" value="1...* doctorList" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="hKyiq-k3pNiRIHzsLkep-33">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hKyiq-k3pNiRIHzsLkep-36" value="Helps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hKyiq-k3pNiRIHzsLkep-33">
-          <mxGeometry x="-0.15" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="hKyiq-k3pNiRIHzsLkep-39" value="1...* doctorList" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="380.0000000000001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
