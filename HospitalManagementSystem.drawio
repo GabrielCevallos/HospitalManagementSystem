@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T15:04:59.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dO_-8tOCRAUdQ0LAj055" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T15:05:41.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6r56u4buXvVYf3QyQ1lv" version="24.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1783" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
           <mxGeometry x="-120" y="570" as="geometry" />
         </mxCell>
         <mxCell id="hKyiq-k3pNiRIHzsLkep-31" value="&lt;&lt;interface&gt;&gt;&#xa;AppoinmentManagement" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="360" width="236.25" height="100" as="geometry">
+          <mxGeometry x="440" y="120" width="236.25" height="100" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -247,15 +247,9 @@
         </mxCell>
         <mxCell id="hKyiq-k3pNiRIHzsLkep-37" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="600" y="380" as="sourcePoint" />
-            <mxPoint x="760" y="380" as="targetPoint" />
+            <mxPoint x="281.88" y="149.26" as="sourcePoint" />
+            <mxPoint x="441.88" y="149.26" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="hKyiq-k3pNiRIHzsLkep-38" value="1...* nurseList" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="410.0000000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="hKyiq-k3pNiRIHzsLkep-39" value="1...* doctorList" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="380.0000000000001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
