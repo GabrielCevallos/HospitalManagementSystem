@@ -1,2 +1,2 @@
 # HospitalManagementSystem
-![image](https://github.com/GabrielCevallos/HospitalManagementSystem/assets/166524070/29634ca8-e9d4-46e2-881c-7d14f18acbef)
+![image](https://github.com/GabrielCevallos/HospitalManagementSystem/assets/166524070/1ace779d-5013-4774-882c-f31ba2361669)
