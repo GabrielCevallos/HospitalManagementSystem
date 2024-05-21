@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T14:31:32.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3P-y0U9NJ8nEzv8umDzj" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T14:34:01.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nS24wuASIjcLKJniHNXs" version="24.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2117" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hKyiq-k3pNiRIHzsLkep-8" value="- number: Date {readOnly}&#xa;- diagnosis: String&#xa;- treatment: String&#xa;- prescription: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hKyiq-k3pNiRIHzsLkep-7" vertex="1">
+        <mxCell id="hKyiq-k3pNiRIHzsLkep-8" value="- number: String {readOnly}&#xa;- diagnosis: String&#xa;- treatment: String&#xa;- prescription: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="hKyiq-k3pNiRIHzsLkep-7" vertex="1">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
         </mxCell>
         <mxCell id="hKyiq-k3pNiRIHzsLkep-11" value="treats" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u-4s6Ov6tr3szu7wvOjj-0" target="zkfFHV4jXpPFQw0GAbJ--13" edge="1">
